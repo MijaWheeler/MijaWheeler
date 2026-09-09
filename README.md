@@ -1,4 +1,4 @@
-### HALLO, I'm Mija Wheeler
+### Hello, I'm Mija Wheeler
 - I'm currently studying Computer Engineering
 - I chose my major because I did robotics in HS and learned that I was intrested in the intersction of programming and eletrical engineering.
 - A fun fact about me is: I got my license to scuba dive before I got my driver's license.
